@@ -1,8 +1,8 @@
 title: "XXX"
 perex: "Klimatická změna je pro většinu Čechů druhořadý problém, za který jsou zodpovědné jiné země – a ty jej mají také vyřešit. Ve skutečnosti patříme k největším producentům skleníkových plynů na obyvatele. Své závazky plníme, takže není důvod to měnit, říká ministr životního prostředí."
 published: "11. prosince 2018"
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
-coverimg_note: "Foto <a href='#'>ČTK</a>"
+coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/katowice_181210-193613_jab.jpg?itok=Dh8RpyUR
+coverimg_note: "Mezinárodní summit ke klimatické změně v polských Katovicích vyvolává vlnu protestů. Foto Reuters<a href='#'></a>"
 styles: []
 libraries: [jquery, highcharts]
 options: []
