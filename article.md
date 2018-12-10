@@ -13,10 +13,9 @@ options: []
 
 Jiný dokument, [Carbon Majors Report 2017](https://b8f65cb373b1b7b15feb-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf?1499691240), zase upozorňuje na tuzemskou závislost na uhlí. Zpráva, podle které je za polovinu globálních emisí skleníkových plynů zodpovědná stovka největších znečišťovatelů, zmiňuje české uhelné elektrárny a teplárny na padesátém místě žebříčku. Jejich zplodiny se na globálních emisích podílejí z 0,3 procenta.
 
-A zatímco sousední Německo a řada dalších evropských zemí plánuje rozsáhlé změny směrem k čistější energii, Česko do roku 2030 žádné zásadní reformy nechystá.
-„Náš cíl je snížení emisí CO<sub>2</sub> minimálně o 40 procent do roku 2030,“ vysvětlil Radiožurnálu ministr Richard Brabec z Hnutí ANO.
+A zatímco sousední Německo a řada dalších evropských zemí plánuje rozsáhlé změny směrem k čistější energii, Česko do roku 2030 žádné převratné reformy nechystá. I když se na první pohled může zdát, že se změny chystají, ve skutečnosti to tak není.
 
-„Česko je v tomto ohledu na dobré cestě, protože jsme je k minulému roku snížili o 35 procent,“ dodává ministr. „Ono to tak jednoduché nebude, protože rychlost poklesu emisí se v minulých letech zastavila. Ale nepochybujeme o tom, že se nám to podaří.“
+„Náš cíl je snížení emisí CO<sub>2</sub> minimálně o 40 procent do roku 2030,“ vysvětlil Radiožurnálu ministr Richard Brabec z Hnutí ANO. „Česko je v tomto ohledu na dobré cestě, protože jsme je k minulému roku snížili o 35 procent.“
 
 Snížení o 40 procent stanoví [Pařížská dohoda](https://www.mzp.cz/cz/parizska_dohoda), kterou většina států světa podepsala v roce 2015. Česko její podpis dosud téměř nic nestál – čtyřicetiprocentní snížení se počítá oproti roku 1990 a velkou část závazku vyřešila ekonomická transformace po pádu komunistického režimu. Podobný propad ekonomiky – a s ní i emisí skleníkových plynů – ostatně zažila většina zemí bývalého východního bloku v čele s Ruskem.
 
@@ -26,7 +25,7 @@ Snížení o 40 procent stanoví [Pařížská dohoda](https://www.mzp.cz/cz/par
 
 ## XXX
 
-Brabcovo vyjádření ostře kontrastuje se [zprávou mezinárodního klimatického panelu]( https://www.ipcc.ch/sr15/) z letošního října. Podle ní musí lidstvo do roku 2030 snížit globální emise skleníkových plynů o polovinu, jinak budou změny klimatu – a s nimi související vlny veder, záplavy, vymírání druhů v oceánech i na souši a katastrofální neúroda – nevratné.
+Brabcovo vyjádření ostře kontrastuje se [zprávou mezinárodního klimatického panelu]( https://www.ipcc.ch/sr15/) z letošního října. Podle ní musí lidstvo do roku 2030 snížit globální emise skleníkových plynů o polovinu proti současnému stavu, jinak budou změny klimatu – a s nimi související vlny veder, záplavy, vymírání druhů v oceánech i na souši a katastrofální neúroda – nevratné.
 
 Dnešní klima je podle výzkumníků o stupeň teplejší než v druhé polovině 19. století. Pařížská dohoda počítala s tím, že ty nejhorší a nevratné změny nastanou při zvýšení teploty o dva stupně. Pečlivější sběr dat ovšem ukázal, že některé změny – například ohřívání oceánů nebo tání grónského permafrostu – postupují podstatně rychleji. Nejviditelnější změna, nevratné tání ledovců, nastane už při oteplení mezi 1,5 a 2 stupni. Podle letošní zprávy tedy zbývá do katastrofy půlstupeň. Vědci ve zprávě zdůraznili, že je třeba „rapidní, dalekosáhlá a bezprecedentní změna ve všech aspektech společnosti“.
 
@@ -50,31 +49,39 @@ Které elektrárny to jsou, ukazuje nezisková organizace Arnika v aplikaci [zne
 
 <div id="topcr" style="width: 100%; height: 400px"></div>
 
-„Změny klimatu vnímáme jako problém, který významně ovlivňuje naši činnost, protože energeticko-klimatická politika EU je postavena i na boji proti emisím CO<sub>2</sub>,“ ujistil Radiožurnál mluvčí ČEZu Ladislav Kříž.
+„Do roku 2050 chceme být uhlíkově neutrální,“ ujistil Radiožurnál mluvčí ČEZu Ladislav Kříž. Znamená to, že společnost například pomocí výsadby stromů zachytí stejné množství uhlíku, jako vypustí do atmosféry.
 
-„Do roku 2050 chceme být uhlíkově neutrální,“ pokračuje. „V předchozích letech ČEZ emise významně snížil obnovou vybraných elektráren a výstavbou nejmodernější uhelné elektrárny v regionu, elektrárny Ledvice. V následujících letech ČEZ odstaví v uhelných elektrárnách na 3000 MW, což povede k zásadnímu poklesu emisí CO<sub>2</sub>.
+„V předchozích letech ČEZ emise významně snížil obnovou vybraných elektráren a výstavbou nejmodernější uhelné elektrárny v regionu, elektrárny Ledvice. V následujících letech ČEZ odstaví v uhelných elektrárnách na 3000 MW, což povede k zásadnímu poklesu emisí CO<sub>2</sub>.
 
-Za posledních dvanáct let ČEZ podle Kříže snížil emise skleníkových plynů z 42 na 27 milionů tun. Stále ovšem provozuje osm hnědouhelných elektráren včetně dvojky a trojky co do množství emisí, elektráren Prunéřov a Tušimice.
+Za posledních dvanáct let ČEZ podle Kříže snížil emise skleníkových plynů z 42 na 27 milionů tun. Stále ovšem provozuje osm hnědouhelných elektráren včetně dvojky a trojky co do množství emisí, elektráren Prunéřov a Tušimice. Nově postavená elektrárna Ledvice byla v roce 2017 osmým největším producentem oxidu uhličitého v Česku.
 
-Dalším silným hráčem je Severní energetická, která provozuje například šestou nejšpinavější hnědouhelnou elektrárnu Chvaletice. Vznikla odštěpením ze skupiny Czech Coal podnikatele Pavla Tykače.
+Dalším silným hráčem je Sev.en EC, která provozuje šestou nejšpinavější hnědouhelnou elektrárnu Chvaletice. Vznikla odštěpením ze skupiny Czech Coal podnikatele Pavla Tykače.
 
 „Elektrárna ve Chvaleticích za minulý rok vyprodukovala necelou jednu desetinu promile globálních emisí CO<sub>2</sub>, v rámci ČR jde o 0,16 procenta,“ odpověděla Českému rozhlasu tisková mluvčí skupiny Gabriela Sáričková Benešová.
 
-Její čísla se ovšem neshodují s čísly Arniky – podle těch elektrárny v roce 2017 vypustila do vzduchu tři miliony tun oxidu uhličitého a za rok 2017 tak jde o tři procenta českých emisí.
+Její čísla se ovšem neshodují s daty v Integrovaném registru znečišťování Ministerstva životního prostředí. Podle nich elektrárna v roce 2017 vypustila do vzduchu tři miliony tun oxidu uhličitého a na českých emisích se tak podílela více než třemi procenty.
 
-„Vedle toho se soustředíme na snižování emisí skutečných škodlivin: prachových částic, oxidu siřičitého, oxidů dusíku, oxidu uhelnatého,“ dodává Sáričková Benešová. „V současné době probíhá rozsáhlá ekologizace elektrárny. Opravu prvních dvou bloků dokončujeme, souběžně připravujeme modernizaci druhých dvou. Cílem je snížit škodlivé emise tak, jak předpokládá přísná evropská legislativa v oblasti ochrany životního prostředí.“
+„Vedle toho se soustředíme na snižování emisí skutečných škodlivin: prachových částic, oxidu siřičitého, oxidů dusíku, oxidu uhelnatého,“ dodává Sáričková Benešová.
 
 ## XXX
 
-Přestože se čeští výrobci energie odvolávají na čistotu svých zdrojů, téměř polovina české elektřiny dnes podle [Státní energetické koncepce](https://www.mpo.cz/dokument158059.html) vzniká spalováním uhlí.
+Přestože se čeští výrobci energie odvolávají na čistotu svých zdrojů, téměř polovina české elektřiny dnes podle [Státní energetické koncepce](https://www.mpo.cz/dokument158059.html) vzniká spalováním uhlí. Sliby čistší elektřiny po roce 2030 v případě ministra životního prostředí, respektive po roce 2050 u ČEZu, znamenají mnohaleté zabetonování současného stavu.
 
-„Vysoký podíl uhlí v energetice mimo jiné znamená, že třeba jezdit elektromobilem je u nás z pohledu klimatické změny méně ekologické než jezdit klasickým benzínovým autem,“ upozorňuje klimatolog Alexandr Ač z Ústavu výzkumu globální změny Akademie věd.
+„Vysoký podíl uhlí v energetice mimo jiné znamená, že elektromobil má u nás vyšší uhlíkovou stopu než klasický benzínový motor,“ upozorňuje klimatolog Alexandr Ač z Ústavu výzkumu globální změny Akademie věd.
 
-Část problému spočívá v tom, že elektřinu z českých elektráren využívají jinde. Kolem pětiny vyrobené elektřiny každoročně vyvezeme za hranice. Například do Německa, které se po odstavení většiny jaderných elektráren orientuje stále více na obnovitelné zdroje. Dovážíme naopak „špinavou“ elektřinu z polských uhelných elektráren.
+Jednou z příčin vysokých českých emisí na hlavu je nadprodukce energie. Česko je jeden z největších evropských exportérů, každoročně vyvezeme za hranice kolem pětiny vyrobené elektřiny, nejvíce do Rakouska. Dovážíme naopak levnou „špinavou“ elektřinu z Polska, kde 80 procent vzniká z uhlí.
 
-Právě Německo teď rozhoduje, kdy uzavře své uhelné elektrárny. Expertní komise, která má stanovit datum odstoupení od uhlí, měla původně svůj závěr představit na summitu v polských Katovicích, kde od minulého týdne politici z celého světa projednávají zmiňovanou zprávu klimatického panelu. Svoje závěry nakonec [představí až v lednu](https://www.cleanenergywire.org/news/commission-watch-managing-germanys-coal-phase-out). Jako datum odstavení se očekává rok 2037, zastánci obnovitelných zdrojů požadují rok 2030.
+„Živá“ mapa serveru electricityMap ukazuje aktuální uhlíkovou stopu. Po přiblížení šipkami v pravé části mapy se můžete podívat také na toky energie mezi jednotlivými zeměmi. Detail každé země odhaluje uhlíkovou náročnost (_Carbon intensity_), podíl elektřiny, která nevzniká spalováním fosilních paliv (_Low-carbon_) a podíl energie z obnovitelných zdrojů (_Renewable_).
 
-Rozhodování německé „uhelné komise“ doprovází řada protestů – od klidných demonstrací po [blokády uhelných dolů](http://a2larm.cz/2018/12/nemecko-boj-o-uhli/) organizovaných klimatickými aktivisty. Podobné protesty se po říjnové zprávě klimatického panelu zintenzivnily po celém světě: demonstrují [australští školáci](https://edition.cnn.com/2018/11/30/australia/australia-school-climate-strike-scli-intl/index.html), posiluje britské protiuhelné hnutí [Extinction Rebellion](https://www.theguardian.com/world/2018/dec/10/extinction-rebellion-goes-global-international-civil-disobedience-climate-talks-poland), z patnáctileté Švédky Grety Thunberg [se stala celebrita](https://www.irozhlas.cz/zpravy-svet/greta-thunbergova-zmena-klimatu-konferece-katovice_1812041115_och). Desítky tisíc protestujících v Bruselu, Kolíně nebo Berlíně [vyzývají politiky na katovickém summitu](https://www.euronews.com/2018/12/03/cop24-tens-of-thousands-of-climate-change-protesters-march-in-brussels), aby brali zprávu klimatického panelu vážně. Ostatně i sousední Slovensko v posledních týdnech řešilo vazbu pro aktivisty Greenpeace, kteří na protest proti pálení uhlí vyvěsili transparent na těžební věž dolu Nováky (https://www.irozhlas.cz/zpravy-svet/slovensko-soud-vazba-aktiviste-greenpeace-cesi_1812021327_ado).
+<wide><iframe src="https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false" style="width:100%; height:70vh;" frameborder="0"></iframe></wide>
+
+## XXX
+
+Způsob, jak se v prostředí střední Evropy zbavit závislosti na uhlí, teď objevuje Německo. Pro Česko jde z pohledu energetiky o klíčového partnera: německý trh s elektřinou je osmkrát větší než ten český, vývoj cen elektřiny v Česku se tak řídí gravitací souseda.
+
+Německo se po nedávném rozhodnutí odstavit své jaderné elektrárny stále více orientuje na obnovitelné zdroje. Teď ho v rámci [_Energiewende_](http://oenergetice.cz/elektrina/Energiewende-a-jeji-cile/), energetického obratu, čeká další krok: rozhodnutí, kdy uzavře své uhelné elektrárny. Expertní komise, která má stanovit datum odstoupení od uhlí, měla původně svůj závěr představit na summitu v polských Katovicích, kde od minulého týdne politici z celého světa projednávají zmiňovanou zprávu klimatického panelu. Svoje závěry nakonec [představí až v lednu](https://www.cleanenergywire.org/news/commission-watch-managing-germanys-coal-phase-out). Jako datum odstavení se očekává rok 2037, zastánci obnovitelných zdrojů požadují rok 2030.
+
+Rozhodování německé „uhelné komise“ doprovází řada protestů – od klidných demonstrací po [blokády uhelných dolů](http://a2larm.cz/2018/12/nemecko-boj-o-uhli/) organizovaných klimatickými aktivisty. Podobné protesty se po říjnové zprávě klimatického panelu zintenzivnily po celém světě: demonstrují [australští školáci](https://edition.cnn.com/2018/11/30/australia/australia-school-climate-strike-scli-intl/index.html), posiluje britské protiuhelné hnutí [Extinction Rebellion](https://www.theguardian.com/world/2018/dec/10/extinction-rebellion-goes-global-international-civil-disobedience-climate-talks-poland), z patnáctileté Švédky Grety Thunberg [se stala celebrita](https://www.irozhlas.cz/zpravy-svet/greta-thunbergova-zmena-klimatu-konferece-katovice_1812041115_och). Desítky tisíc protestujících v Bruselu, Kolíně nebo Berlíně [vyzývají politiky na katovickém summitu](https://www.euronews.com/2018/12/03/cop24-tens-of-thousands-of-climate-change-protesters-march-in-brussels), aby brali zprávu klimatického panelu vážně. Ostatně i sousední Slovensko v posledních týdnech řešilo vazbu pro aktivisty Greenpeace, kteří na protest proti pálení uhlí [vyvěsili transparent](https://www.irozhlas.cz/zpravy-svet/slovensko-soud-vazba-aktiviste-greenpeace-cesi_1812021327_ado) na těžební věž dolu Nováky.
 
 ## XXX
 
