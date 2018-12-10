@@ -11,6 +11,8 @@
 	</head>
 	<body>
 
+<wide><div style="width: 600px; height: 400px" id="topcr"></div></wide>
+
 <wide><div style="width: 1000px; height: 600px" id="topemise"></div></wide>
 
 <wide><div style="width: 1000px; height: 600px" id="globalemise"></div></wide>
@@ -52,6 +54,53 @@ var us = [{co2: 3480.1, y: 17.4}, {co2: 3675.5, y: 18.2}, {co2: 3772.6, y: 18.5}
 
 var svet = [{co2: 11189.5, y: 3.4}, {co2: 11704.2, y: 3.4}, {co2: 12062.2, y: 3.5}, {co2: 12719.2, y: 3.6}, {co2: 13516.1, y: 3.7}, {co2: 14267, y: 3.9}, {co2: 14762.6, y: 3.9}, {co2: 15464.8, y: 4.0}, {co2: 16312.1, y: 4.2}, {co2: 16225.8, y: 4.1}, {co2: 16246.4, y: 4.0}, {co2: 17126.4, y: 4.1}, {co2: 17673.2, y: 4.2}, {co2: 17952.4, y: 4.2}, {co2: 18527.8, y: 4.2}, {co2: 18364.1, y: 4.1}, {co2: 18129.7, y: 4.0}, {co2: 17957.6, y: 3.9}, {co2: 18128.9, y: 3.9}, {co2: 18798.1, y: 3.9}, {co2: 19195.6, y: 3.9}, {co2: 19530, y: 3.9}, {co2: 20135.5, y: 4.0}, {co2: 20804, y: 4.0}, {co2: 21202.1, y: 4.0}, {co2: 21295.3, y: 4.0}, {co2: 21290.7, y: 3.9}, {co2: 21377.7, y: 3.9}, {co2: 21411.5, y: 3.8}, {co2: 21650.4, y: 3.8}, {co2: 21897.7, y: 3.8}, {co2: 22518.1, y: 3.9}, {co2: 22730.3, y: 3.8}, {co2: 22776.5, y: 3.8}, {co2: 23076.6, y: 3.8}, {co2: 23623, y: 3.8}, {co2: 23944.2, y: 3.8}, {co2: 24486.3, y: 3.9}, {co2: 25697.2, y: 4.0}, {co2: 27024.5, y: 4.2}, {co2: 28133.2, y: 4.3}, {co2: 29017.4, y: 4.4}, {co2: 30078.7, y: 4.5}, {co2: 30381.8, y: 4.5}, {co2: 29714.2, y: 4.3}, {co2: 31074.2, y: 4.5}, {co2: 31970.5, y: 4.5}, {co2: 32317.8, y: 4.5}, {co2: 32802, y: 4.5}, {co2: 32886.8, y: 4.5}, {co2: 32851.9, y: 4.4}, {co2: 33017.6, y: 4.4}, {co2: 33444, y: 4.4}];
 
+var topelektrarny = ["Elektrárna Počerady","Elektrárny Prunéřov","Elektrárny Tušimice","Sokolovská uhelná","Unipetrol RPA","Elektrárna Chvaletice","Provozovna Třinec","Elektrárna Ledvice","ArcelorMittal Ostrava","Elektrárna a teplárna Mělník"];
+
+var topcremise = [{provozovatel: "Elektrárna Počerady, a.s.", kraj: "Ústecký", y: 5.64}, {provozovatel: "ČEZ, a.s.", kraj: "Ústecký", y: 4.95}, {provozovatel: "ČEZ, a.s.", kraj: "Ústecký", y: 4.25}, {provozovatel: "Sokolovská uhelná, právní nástupce, a.s.", kraj: "Karlovarský", y: 4.2}, {provozovatel: "UNIPETROL RPA, s.r.o.", kraj: "Ústecký", y: 3.74}, {provozovatel: "Sev.en EC, a.s.", kraj: "Pardubický", y: 3.04}, {provozovatel: "TŘINECKÉ ŽELEZÁRNY, a.s.", kraj: "Moravskoslezský", y: 2.63}, {provozovatel: "ČEZ, a.s.", kraj: "Ústecký", y: 2.55}, {provozovatel: "ArcelorMittal Ostrava a.s.", kraj: "Moravskoslezský", y: 2.54}, {provozovatel: "ČEZ, a.s.", kraj: "Středočeský", y: 2.51}];
+
+Highcharts.chart('topcr', {
+    chart: {
+        type: 'column'
+    },
+    title: {
+        text: 'Emise CO2'
+    },
+    subtitle: {
+        text: '10 největších znečišťovatelů v ČR'
+    },
+    xAxis: {
+        categories: topelektrarny
+    },
+    yAxis: {
+        title: {
+            text: 'emise CO2'
+        },
+        labels: {
+            formatter: function () {
+                return this.value + ' mil. tun';
+            }
+        }
+    },
+    tooltip: {
+        pointFormat: '{point.series.name}: <b>{point.y} mil. tun</b><br/>Provozovatel: <b>{point.provozovatel}</b><br/>Kraj: <b>{point.kraj}</b>',
+    },
+    legend: {
+        enabled: false
+    },
+    exporting: {
+        enabled: false
+    },
+    credits: {
+        href: 'http://www.znecistovatele.cz/',
+        text: 'Zdroj: Arnika'
+    },
+    series: [{
+        name: 'Emise CO2',
+        data: topcremise,
+        color: colors[2]
+    }]
+});
+
 Highcharts.chart('topemise', {
     chart: {
         type: 'column'
@@ -79,7 +128,9 @@ Highcharts.chart('topemise', {
         pointFormat: '{point.series.name}: <b>{point.y} tun na obyvatele</b> ({point.co2} milionů tun celkem)<br/>',
     },
     legend: {
-        enabled: false
+        labelFormatter: function () {
+            return this.name;
+        }
     },
     exporting: {
         enabled: false
@@ -88,10 +139,39 @@ Highcharts.chart('topemise', {
         href: 'https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html',
         text: 'Zdroj: emise BP, populace OSN'
     },
+    plotOptions: {
+        column: {
+        	pointPadding: 0.1,
+        	pointWidth: 15,
+        	borderWidth: 0,
+        	events: {
+            	legendItemClick: function () {
+                	return false;
+            	}
+        	}
+    	}
+    },
     series: [{
         name: 'Emise CO2',
         data: topemise,
+        color: colors[2],
+        showInLegend: false
+    }, {
+        name: 'Česko',
+        data: [],
+        color: colors[0]
+    }, {
+        name: 'země EU',
+        data: [],
+        color: colors[5]
+    }, {
+        name: 'země mimo EU',
+        data: [],
         color: colors[2]
+    }, {
+        name: 'globální průměr',
+        data: [],
+        color: 'gray'
     }]
 });
 
