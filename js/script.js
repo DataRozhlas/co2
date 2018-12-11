@@ -39,7 +39,7 @@ Highcharts.chart('topcr', {
         type: 'column'
     },
     title: {
-        text: 'Emise CO2'
+        text: 'Emise CO₂'
     },
     subtitle: {
         text: '10 největších znečišťovatelů v ČR'
@@ -49,7 +49,7 @@ Highcharts.chart('topcr', {
     },
     yAxis: {
         title: {
-            text: 'emise CO2'
+            text: 'emise CO₂'
         },
         labels: {
             formatter: function () {
@@ -71,7 +71,7 @@ Highcharts.chart('topcr', {
         text: 'Zdroj: Arnika'
     },
     series: [{
-        name: 'Emise CO2',
+        name: 'Emise CO₂',
         data: topcremise,
         color: colors[2]
     }]
@@ -79,10 +79,10 @@ Highcharts.chart('topcr', {
 
 Highcharts.chart('topemise', {
     chart: {
-        type: 'column'
+        type: 'bar'
     },
     title: {
-        text: 'Emise CO2 na hlavu'
+        text: 'Emise CO₂ na hlavu'
     },
     subtitle: {
         text: 'vybrané země, 2017'
@@ -92,7 +92,7 @@ Highcharts.chart('topemise', {
     },
     yAxis: {
         title: {
-            text: 'CO2 na obyvatele'
+            text: 'CO₂ na obyvatele'
         },
         labels: {
             formatter: function () {
@@ -104,9 +104,7 @@ Highcharts.chart('topemise', {
         pointFormat: '{point.series.name}: <b>{point.y} tun na obyvatele</b> ({point.co2} milionů tun celkem)<br/>',
     },
     legend: {
-        labelFormatter: function () {
-            return this.name;
-        }
+    	enabled: false
     },
     exporting: {
         enabled: false
@@ -115,39 +113,11 @@ Highcharts.chart('topemise', {
         href: 'https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html',
         text: 'Zdroj: emise BP, populace OSN'
     },
-    plotOptions: {
-        column: {
-        	pointPadding: 0.1,
-        	pointWidth: 15,
-        	borderWidth: 0,
-        	events: {
-            	legendItemClick: function () {
-                	return false;
-            	}
-        	}
-    	}
-    },
     series: [{
-        name: 'Emise CO2',
+        name: 'Emise CO₂',
         data: topemise,
         color: colors[2],
         showInLegend: false
-    }, {
-        name: 'Česko',
-        data: [],
-        color: colors[0]
-    }, {
-        name: 'země EU',
-        data: [],
-        color: colors[5]
-    }, {
-        name: 'země mimo EU',
-        data: [],
-        color: colors[2]
-    }, {
-        name: 'globální průměr',
-        data: [],
-        color: 'gray'
     }]
 });
 
@@ -156,7 +126,7 @@ Highcharts.chart('globalemise', {
         type: 'line'
     },
     title: {
-        text: 'Emise CO2 na hlavu, časová řada'
+        text: 'Emise CO₂ na hlavu, časová řada'
     },
     subtitle: {
         text: 'vybrané země, 1965 až 2017'
@@ -166,7 +136,7 @@ Highcharts.chart('globalemise', {
     },
     yAxis: {
         title: {
-            text: 'CO2 na obyvatele'
+            text: 'CO₂ na obyvatele'
         },
         labels: {
             formatter: function () {
@@ -175,7 +145,7 @@ Highcharts.chart('globalemise', {
         }
     },
     tooltip: {
-        pointFormat: '{point.series.name}: <b>{point.y} tun CO2 na obyvatele</b> ({point.co2} milionů tun celkem)<br/>',
+        pointFormat: '{point.series.name}: <b>{point.y} tun CO₂ na obyvatele</b> ({point.co2} milionů tun celkem)<br/>',
     },
     exporting: {
         enabled: false
